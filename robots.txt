@@ -1,0 +1,3 @@
+Sitemap: http://www.ichtd.net/sitemap.xml
+
+User-agent: *
