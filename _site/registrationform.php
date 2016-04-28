@@ -239,7 +239,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">ICHTD 2017:</p>
-      <p class="body">ICHTD 2017 will  be held in Barcelona, Spain on April 7 - 8, 2017.</p>
+      <p class="body">ICHTD 2017 will  be held in Barcelona, Spain on April 7 - 8, 2017 at the Alimara Hotel Barcelona.</p>
       
       <!-- <p class="bold">Sponsor:</p>
       <p class="body">CSP'16 is proud to announce that <b>Photron</b> will be a sponser and an exhibitor during the duration of the congress!</p>
@@ -333,7 +333,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    Camera Ready Submission Deadline
+    Final Version of Extended Abstract or Paper Submission Deadline
   </div>
 </div>
 </div>
