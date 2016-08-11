@@ -208,7 +208,9 @@ mail($my_email,$subject,$message,$headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+
+<p class="body" style="text-align:center!important;">ICHTD'17 is part of the <b>2<sup>nd</sup> World Congress on Momentum, Heat and Mass Transfer (MHMT'17)</b>. For more information about the congress, please visit the website here: <a href="http://mhmtcongress.com/" class="body-link">www.mhmtcongress.com</a>.</p>
         </div>
     </div>
 
@@ -234,7 +236,9 @@ mail($my_email,$subject,$message,$headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+
+<p class="body" style="text-align:center!important; color: #FFF!important;">ICHTD'17 is part of the <b>2<sup>nd</sup> World Congress on Momentum, Heat and Mass Transfer (MHMT'17)</b>.<br>For more information about the congress, please visit the website here: <a href="http://mhmtcongress.com/" class="body-link">www.mhmtcongress.com</a>.</p>
         </div>
         </div> 
       </div>
