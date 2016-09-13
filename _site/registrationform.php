@@ -250,7 +250,7 @@ mail($your_email,$your_subject,$message,$your_headers);
       <center><img src="../img/photron1.jpg" width="250"></center> -->
       
       <p class="bold">Poster Board Dimensions:</p>
-      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 80 cm width.</p>
+      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 130 cm height and 95 cm width.</p>
     </div>          
     <div>
       <h2 class="title">2</h2>
