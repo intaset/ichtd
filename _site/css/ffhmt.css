@@ -987,6 +987,20 @@ th {
 	border-bottom: #1B2438 1px solid;
 }
 
+.keynoteIndex {
+    padding-right: 1em;
+    text-align: center;
+}
+
+.keynoteIndex .body {
+    text-align: center;
+}
+
+.keynoteIndex img {
+    width: 200px;
+    margin: auto;
+}
+
 /* HEADER & NAVIGATION */
 h1 {
 	font-family: 'Lato', sans-serif;
