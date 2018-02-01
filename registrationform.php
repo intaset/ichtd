@@ -67,9 +67,9 @@ $headers = "From: " . $_REQUEST['email'];
 
 $your_email = $_REQUEST['email'];
 
-$your_subject = "Your Registration Details for ICHTD'18";
+$your_subject = "Your Registration Details for ICHTD'19";
 
-$your_headers = "From: ICHTD'18 <" . $my_email . ">";
+$your_headers = "From: ICHTD'19 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -115,7 +115,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="heat transfer, heat transfer devices, cfd, boilers, compact heat exchangers, heat transfer enhancement, mechanical design, heat transfer conference, heat transfer devices conference, cfd conference, boilers conference, compact heat exchangers conference, heat transfer enhancement conference, mechanical design conference, fluid flow, fluid flow conference, fluid mechanics, fluid mechanics conference, fluid dynamics, fluid dynamics conference">
-<title>ICHTD'18 - Registration Form Filled!</title>
+<title>ICHTD'19 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -146,7 +146,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>ICHTD'18</h1>
+  <h1>ICHTD'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Submissions</a></li>
@@ -187,8 +187,8 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Heat<br>Transfer Devices (ICHTD'18)</h1>
-          <p class="subhead">April 12 - 14, 2018 | Budapest, Hungary</p>
+          <h1>4<sup>th</sup> International Conference on Heat<br>Transfer Devices (ICHTD'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -214,8 +214,8 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Heat<br>Transfer Devices (ICHTD'18)</h1>
-          <p class="subhead">April 12 - 14, 2018 | Budapest, Hungary</p>
+          <h1>4<sup>th</sup> International Conference on Heat<br>Transfer Devices (ICHTD'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -253,7 +253,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
     <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@ichtd.net" class="body-link">registration@ichtd.net</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at ICHTD'18!</p>
+  <p class="body">We are looking forward to seeing you at ICHTD'19!</p>
   </div>
 </div>
 
@@ -280,7 +280,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICHTD'18, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICHTD'19, please fill out the form below:</p>
 
    <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
