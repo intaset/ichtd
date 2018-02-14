@@ -1565,6 +1565,7 @@ textarea {
 	width: 100%;
 }
 
+#Type_of_Registration-error,
 #title-error,
 #First_Name-error,
 #Last_Name-error,
