@@ -11,7 +11,10 @@ $(function() {
       title: {
         required: true,
       },
+<<<<<<< HEAD
 	   Type_of_Registration: "required",
+=======
+>>>>>>> parent of cffaff4... update registration page
       First_Name: "required",
       Last_Name: "required",
       affiliation: "required",
@@ -35,7 +38,10 @@ $(function() {
     },
     // Specify validation error messages
     messages: {
+<<<<<<< HEAD
 	  Type_of_Registration: "Please select your registration type",	
+=======
+>>>>>>> parent of cffaff4... update registration page
       title: "Please select your prefix",
       First_Name: "Please enter your first name",
       Last_Name: "Please enter your last name",
