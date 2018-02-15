@@ -11,7 +11,7 @@ $(function() {
       title: {
         required: true,
       },
-	  Type_of_Registration: "required",
+	   Type_of_Registration: "required",
       First_Name: "required",
       Last_Name: "required",
       affiliation: "required",
@@ -35,7 +35,7 @@ $(function() {
     },
     // Specify validation error messages
     messages: {
-	  Type_of_Registration: "Please select your registration type",
+	  Type_of_Registration: "Please select your registration type",	
       title: "Please select your prefix",
       First_Name: "Please enter your first name",
       Last_Name: "Please enter your last name",
